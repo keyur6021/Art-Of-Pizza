@@ -1,0 +1,16 @@
+
+@media only screen and (max-width: 320px) {
+  .title {
+    font-size: 25px !important;
+  }
+
+  .SubTitle {
+    font-size: 10px !important;
+  }
+}
+
+
+
+.css-1to7aaw-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+  background-color: #E4501D !important;
+}
