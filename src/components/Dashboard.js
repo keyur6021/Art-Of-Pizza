@@ -104,7 +104,7 @@ const Dashboard = () => {
             </MainBox>
             <SubTitle>
                 <Title>
-                    😃 OUR CATEGORY 😃
+                    😃 OUR CATEGORYS 😃
                 </Title>
             </SubTitle>
 
@@ -128,7 +128,7 @@ const Dashboard = () => {
                                     Fried pizza with cheese
                                 </Typography>
                                 <Typography sx={{ fontFamily: 'Poppins', fontweight: 700, fontSize: 14, textAlign: 'start' }} variant="body2">
-                                    $ 18,48
+                                    $ 12,48
                                 </Typography>
                             </CardContent>
                             <CardActions sx={{ float: 'right' }}>
@@ -154,7 +154,7 @@ const Dashboard = () => {
                                     Fried pizza with cheese
                                 </Typography>
                                 <Typography sx={{ fontFamily: 'Poppins', fontweight: 700, fontSize: 14, textAlign: 'start' }} variant="body2">
-                                    $ 18,48
+                                    $ 10,55
                                 </Typography>
                             </CardContent>
                             <CardActions sx={{ float: 'right' }}>
@@ -180,7 +180,7 @@ const Dashboard = () => {
                                     Fried pizza with cheese
                                 </Typography>
                                 <Typography sx={{ fontFamily: 'Poppins', fontweight: 700, fontSize: 14, textAlign: 'start' }} variant="body2">
-                                    $ 18,48
+                                    $ 13,48
                                 </Typography>
                             </CardContent>
                             <CardActions sx={{ float: 'right' }}>
@@ -206,7 +206,7 @@ const Dashboard = () => {
                                     Fried pizza with cheese
                                 </Typography>
                                 <Typography sx={{ fontFamily: 'Poppins', fontweight: 700, fontSize: 14, textAlign: 'start' }} variant="body2">
-                                    $ 18,48
+                                    $ 15,25
                                 </Typography>
                             </CardContent>
                             <CardActions sx={{ float: 'right' }}>
@@ -238,7 +238,7 @@ const Dashboard = () => {
                                     Fried pizza with cheese
                                 </Typography>
                                 <Typography sx={{ fontFamily: 'Poppins', fontweight: 700, fontSize: 14, textAlign: 'start' }} variant="body2">
-                                    $ 18,48
+                                    $ 18,78
                                 </Typography>
                             </CardContent>
                             <CardActions sx={{ float: 'right' }}>
